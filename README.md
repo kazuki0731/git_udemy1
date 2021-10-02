@@ -13,4 +13,7 @@ gitレクチャー用のリポジトリ
 
 * kawabata
 * takahashi
-  
+
+## git pullとは
+
+がんばること
