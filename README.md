@@ -2,7 +2,7 @@
 
 ## 概要
 
-gitレクチャー用のリポジトリ
+git レクチャー用のリポジトリ
 
 ## 使い方
 
@@ -11,13 +11,17 @@ gitレクチャー用のリポジトリ
 
 ## チームメンバー
 
-* kawabata
-* takahashi
+- kawabata
+- takahashi
 
-## git fetchとは
+## git fetch とは
 
 がんばらないこと
 
-## git pullとは
+## git pull とは
 
 がんばること
+
+## 注意点
+
+がんばろう
