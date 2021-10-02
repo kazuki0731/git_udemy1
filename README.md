@@ -14,6 +14,9 @@ gitレクチャー用のリポジトリ
 * kawabata
 * takahashi
 
+## git fetchとは
+
+がんばらないこと
 ## git pullとは
 
 がんばること
